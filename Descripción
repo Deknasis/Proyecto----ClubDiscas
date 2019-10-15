@@ -1,0 +1,4 @@
+Dev, branch para el desarrollo, pretty obviuos eh? Bueno cualquier nueva codificacion hecha tiene que subirse aca y
+aparte deberia subirse al master tambien (add, commit, checkout, merge, stuff)
+
+El mensaje del commit debera tener un nombre/descripcion significativa para el entendimiento general.
