@@ -8,3 +8,13 @@ Jhejhe
 
 Bueno, parece que ahora hice un checkout jhejhes
 
+
+
+Bueno, hagamos un main no mas:
+
+public class Main()
+{
+	public static void main(String [] args){
+	
+	}
+}
