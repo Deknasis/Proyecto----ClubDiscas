@@ -18,3 +18,9 @@ public class Main()
 	
 	}
 }
+
+Tuve un pinche quilombo al hacer el push, tuve que pullear con un
+--Allow-unrelated-histories
+
+No se si se hace de esa forma, pero bueno... No esta todo muerto y roto, y al final
+pude hacer el pull y el push, asi que supongo que sirve, ojala no me haya equivocado.
